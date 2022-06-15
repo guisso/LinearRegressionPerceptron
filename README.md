@@ -1,0 +1,2 @@
+# LinearRegressionPerceptron
+Perceptron implementation without classification activation function
